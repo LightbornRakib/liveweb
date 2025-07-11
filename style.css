@@ -1,0 +1,270 @@
+.one{
+  padding-bottom: 6%;
+    display: flex;
+    height: 200%;
+    width: 100%;
+    padding-top: 4%;
+  gap: 60%;
+    justify-content: space-around;
+    background-image: url('Assets/Hero-bg.png') ;
+    margin-bottom: 8%;
+
+}
+
+.twice
+{
+        background-image: url('Assets/Hero-bg.png') ;
+}
+body{
+  background-color:#F5F8FF;
+    /* background-color:yellow; */
+  
+
+}
+
+.same{
+    background-color: #4E47FF;
+  
+    padding: 15px;
+    border-radius: 10px;
+color: rgb(255, 255, 255);
+border: none;
+
+
+}
+
+.two{
+    display: block;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 10%;
+   margin-bottom: 15%;
+   margin-top: 10%;
+}
+
+.same:hover
+{ background-color: rgb(196, 196, 42);
+    color: black;
+
+
+}
+
+.three{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin-top: 100px;
+     justify-content: space-around;
+    
+     
+}
+.Webflow{
+    border: 20px solid black;
+    border-radius: 48px;
+
+}
+
+.light{
+    color: #252432 ;
+    font-size: 15px;
+}
+
+.stars, .designer, .review{display: flex;}
+.un{
+    margin-top: -5%;
+    margin-left: 6%;}
+
+.date{
+    margin-top: -5%;
+    font-size: 13px;
+}
+.sujana
+{
+    border-radius: 50%;
+}
+.five
+{ margin-top: 15%;
+    display: block;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  
+  
+}
+
+.ok{
+    border: 5px solid white;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 8%;
+
+}
+.review{
+  justify-content: center;
+    width: 100%;
+    
+}
+
+
+.four
+{ margin-top: 18%;
+    /* height: 206px; */
+    width: 80%;
+  height: 100%;
+    justify-content: center;
+ background-color: #eaeaff;
+    
+    display: block;
+    padding: 5%;
+
+        
+    border-radius: 50px;
+/* 
+margin-left: -20px;
+margin-bottom: -200px; */
+/* position: relative;
+    left: 10%; */
+}
+
+.stat
+{  
+    display: flex;
+    gap: 5%;
+    justify-content: space-around;
+  
+}
+
+.r{
+    /* background-color: #eaeaff; */
+   
+    border-radius: 30px;
+    justify-content: center;
+    padding-left: 11%;
+    padding-right: 7%;
+    
+   
+  
+
+}
+
+
+ .h{
+    font-size: 70px;
+    margin-top: -4%;
+ 
+  
+font-weight: 700px;
+color: #4E47FF;
+font-family: sans-serif;
+}
+
+.light1
+{
+    margin-top: -60px;
+    text-align: center;
+}
+.p{
+    
+}
+
+.six{
+  
+    display: block;
+    align-items: center;
+    justify-items: center;
+    
+    background-color: white;
+margin: 5%;
+padding: 4%;
+border-radius: 5%;
+margin-top: 100px;
+
+    
+    
+
+}
+#s{
+    margin-left: 43%;
+}
+
+.img{
+    border-radius: 40px;
+}
+
+.seven{
+    display: flex;
+    justify-content: space-around;
+ margin-top: 10%;
+}
+
+label{
+    font-size: 13px;
+    font-weight: 900;
+}
+ input{
+    width: 95%;
+    font-size: 15px;
+    padding: 10px;
+    border: #eaeaff solid 2px;
+    border-radius: 8px;
+
+ }
+ input::placeholder, textarea::placeholder{font-size: 15px;
+text-align: left;
+padding-left: 18px;
+padding-top: 3px;
+font-family: sans-serif;
+
+}
+
+textarea{border: #eaeaff  solid 2px;
+resize:none;
+width: 100%;
+ border-radius: 8px;}
+
+.touch{
+    width: 102%;
+    height: 15%;
+      background-color: #4E47FF;
+  
+  
+    border-radius: 6px;
+color: rgb(255, 255, 255);
+border: none;
+font-weight: 800;
+}
+
+.touch:hover
+{ background-color: rgb(196, 196, 42);
+    color: black;
+
+
+}
+
+.eight
+{
+    
+justify-items: center;
+background-color: white;
+padding: 10%;
+margin-top: 10%;
+}
+
+
+
+a{
+
+
+margin-right: 50px;
+
+}
+
+.little{color: rgb(118, 118, 118);
+
+}
+
+
+
